@@ -1,0 +1,17 @@
+setuptools>=65.5.1
+wheel>=0.38.4
+streamlit
+langchain-community==0.3.0
+langchain-google-genai==2.1.5
+langchain-core==0.3.62
+sentence-transformers==2.7.0
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+pytesseract==0.3.10
+Pillow
+tqdm
+faiss-cpu
+numpy==1.26.4
+torch==2.5.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
